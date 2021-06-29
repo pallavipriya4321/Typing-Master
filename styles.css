@@ -1,0 +1,39 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  background-color: rgb(104, 104, 230);
+  font-family: "Josefin Sans", sans-serif;
+}
+.main {
+  color: cornsilk;
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+}
+#mywords {
+  background-color: cornsilk;
+  height: 300px;
+  width: 800px;
+  margin-top: 40px;
+  color: black;
+  border: 10px solid #4c64b4;
+  border-radius: 10px;
+}
+#btn {
+  margin: 10px;
+  align-items: center;
+  background-color: blue;
+}
+h2 {
+  text-align: center;
+}
+textarea {
+  font-size: 1.5rem;
+}
+#msg {
+  color: black;
+}
